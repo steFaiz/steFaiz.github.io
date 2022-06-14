@@ -1,1 +1,13 @@
-theme: jekyll-theme-modernist
+title: hello
+email: hello@qq.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Sharing 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  hello
+markdown: kramdown
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
